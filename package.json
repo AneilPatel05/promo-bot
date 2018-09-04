@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "aneilpatel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "dsteem": "^0.9.0"
+  }
+}
